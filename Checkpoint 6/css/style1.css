@@ -1,0 +1,61 @@
+body{font-family: "Montserrat", sans-serif;
+background-color: #2c3e50;
+}
+
+form { color: #7c795d;
+font-family: 'Trocchi', serif;
+ font-size: 45px;
+ font-weight: normal; 
+ line-height: 8px; 
+ margin-left: 10%;
+}
+.form-group{display: inline-block}
+
+.banner {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    height: 300px; }
+
+    img{width: 120px;
+    height: 120px}
+  
+ 
+ h2 { color: #7c795d;
+     font-family: 'Source Sans Pro', sans-serif; 
+     font-size: 28px; 
+     font-weight: 400; 
+     line-height: 32px;
+ }
+ p { color: #4c4a37;
+     font-family: 'Source Sans Pro', sans-serif;
+      font-size: 18px;
+       line-height: 32px; 
+       }
+
+#feedback{display: inline-block;
+    position: absolute;
+    top:0; right:0;
+    background-color: #E0EAFC;
+width: 70%;
+height: 500px}
+
+#wwy{position: absolute;
+    top:0; left:0;
+    display: inline-block;
+    width: 30%;
+    height: 500px;
+}
+
+input{width: 300px
+;height: 20px}
+
+h1{ display: inline;
+    font-family: Arial, Helvetica, sans-serif}
+#ada{color: white}
+
+#container{position:relative;
+    margin:5%;
+width: 90%;
+height:90%}
+#msg{height: 50px}
