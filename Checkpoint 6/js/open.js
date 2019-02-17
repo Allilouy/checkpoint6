@@ -1,0 +1,1 @@
+window.open("chkpnt6.html");
