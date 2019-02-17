@@ -1,7 +1,7 @@
 
 $('#submit').click(function () { 
    window.open('form.html');
-   window.close()
+   window.close(this)
    });
 
 if (confirm('You can only proceed if you have an ADA account')) {
